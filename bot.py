@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTypes
 
-TOKEN = "PASTE_NEW_BOT_TOKEN"
+TOKEN = "8684665215:AAGZbkCRwgIdC7Sd3TjVboKe0UWc66Hxdj4 "
 
 GROUP_ID = -1003883248474
 
